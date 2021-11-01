@@ -9,6 +9,7 @@
 header {
     height: 76px;
     border-bottom: 1px solid #333;
+    padding-top: 2vh;
 }
 
 header nav {
@@ -67,17 +68,19 @@ main section article h1 {
 
 main section article p {
     color: white;
+    margin: 10vh 0 6vh 0;
 }
 
 main section article a:nth-of-type(1) {
     color: white;
     text-decoration: none;
-    border: 2px solid white;
+    border: 1px solid white;
     padding: 2vh 2vw;
 }
 
 main section article a:nth-of-type(2) {
     color: white;
     text-decoration: none;
-    padding: 2vh 2vw;
+    padding: 2.3vh 4vw;
+    background-color: #745CF6;
 }
